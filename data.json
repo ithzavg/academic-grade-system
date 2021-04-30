@@ -1,0 +1,1304 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"group": 2,
+			"firstName": "Verner",
+			"lastName": "Kihn",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 1.6,
+				"note_2": 0.7,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 2,
+			"group": 5,
+			"firstName": "Maudie",
+			"lastName": "Hamill",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 0.6,
+				"note_2": 0.1,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 3,
+			"group": 5,
+			"firstName": "Veronica",
+			"lastName": "Emard",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 1,
+				"note_2": 4,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 4,
+			"group": 3,
+			"firstName": "Adell",
+			"lastName": "McDermott",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 0.4,
+				"note_2": 0.2,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 5,
+			"group": 1,
+			"firstName": "Helene",
+			"lastName": "King",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 1.8,
+				"note_2": 4.7,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 6,
+			"group": 5,
+			"firstName": "Lola",
+			"lastName": "Roob",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 2,
+				"note_2": 2.2,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 7,
+			"group": 5,
+			"firstName": "Jammie",
+			"lastName": "Bartell",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 4.1,
+				"note_2": 2.3,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 8,
+			"group": 5,
+			"firstName": "Kyler",
+			"lastName": "Mante",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 4.7,
+				"note_2": 1.8,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 9,
+			"group": 2,
+			"firstName": "Aisha",
+			"lastName": "Bauch",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 4.6,
+				"note_2": 1,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 10,
+			"group": 4,
+			"firstName": "Ivory",
+			"lastName": "Russel",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 0.8,
+				"note_2": 3.8,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 11,
+			"group": 3,
+			"firstName": "Jeff",
+			"lastName": "Turcotte",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 1,
+				"note_2": 3.7,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 12,
+			"group": 2,
+			"firstName": "Abbie",
+			"lastName": "Bailey",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 1,
+				"note_2": 3.2,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 13,
+			"group": 3,
+			"firstName": "Alessandra",
+			"lastName": "Bauch",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 4.1,
+				"note_2": 2.9,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 14,
+			"group": 1,
+			"firstName": "Toy",
+			"lastName": "Hermann",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 2.6,
+				"note_2": 0.3,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 15,
+			"group": 3,
+			"firstName": "Ellsworth",
+			"lastName": "Cartwright",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 4.6,
+				"note_2": 4.7,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 16,
+			"group": 2,
+			"firstName": "Stephen",
+			"lastName": "Bergnaum",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 3.2,
+				"note_2": 1.7,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 17,
+			"group": 3,
+			"firstName": "Madisyn",
+			"lastName": "Kessler",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 4.8,
+				"note_2": 4.6,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 18,
+			"group": 1,
+			"firstName": "Destiny",
+			"lastName": "Kunde",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 1.8,
+				"note_2": 1.7,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 19,
+			"group": 4,
+			"firstName": "Anderson",
+			"lastName": "Lemke",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 1.6,
+				"note_2": 1.4,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 20,
+			"group": 5,
+			"firstName": "Khalid",
+			"lastName": "Ondricka",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 2.2,
+				"note_2": 1.4,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 21,
+			"group": 4,
+			"firstName": "Eleanora",
+			"lastName": "Torphy",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 2.7,
+				"note_2": 3.3,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 22,
+			"group": 4,
+			"firstName": "Elisha",
+			"lastName": "Stamm",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 3.1,
+				"note_2": 4.5,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 23,
+			"group": 4,
+			"firstName": "Eula",
+			"lastName": "Harvey",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 2.3,
+				"note_2": 3,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 24,
+			"group": 1,
+			"firstName": "Kaycee",
+			"lastName": "Robel",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 4,
+				"note_2": 1.4,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 25,
+			"group": 5,
+			"firstName": "Kaylah",
+			"lastName": "Boehm",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 0.9,
+				"note_2": 2.2,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 26,
+			"group": 4,
+			"firstName": "Ramona",
+			"lastName": "Herman",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 4.3,
+				"note_2": 1.9,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 27,
+			"group": 3,
+			"firstName": "Genoveva",
+			"lastName": "King",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 2.7,
+				"note_2": 3.4,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 28,
+			"group": 2,
+			"firstName": "Shyann",
+			"lastName": "Sanford",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 4.8,
+				"note_2": 0.9,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 29,
+			"group": 3,
+			"firstName": "Elbert",
+			"lastName": "Gutkowski",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 1.5,
+				"note_2": 1.1,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 30,
+			"group": 4,
+			"firstName": "Lew",
+			"lastName": "Deckow",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 3,
+				"note_2": 0,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 31,
+			"group": 1,
+			"firstName": "Napoleon",
+			"lastName": "Kautzer",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 0.4,
+				"note_2": 3.3,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 32,
+			"group": 3,
+			"firstName": "Kaelyn",
+			"lastName": "Tillman",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 3.1,
+				"note_2": 5,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 33,
+			"group": 4,
+			"firstName": "Hoyt",
+			"lastName": "Murray",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 4.9,
+				"note_2": 0.7,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 34,
+			"group": 5,
+			"firstName": "Tiana",
+			"lastName": "Leffler",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 5,
+				"note_2": 4.3,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 35,
+			"group": 1,
+			"firstName": "Eugene",
+			"lastName": "Stoltenberg",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 2.4,
+				"note_2": 0.2,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 36,
+			"group": 1,
+			"firstName": "Erica",
+			"lastName": "Klein",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 4.1,
+				"note_2": 3.2,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 37,
+			"group": 1,
+			"firstName": "Lessie",
+			"lastName": "Lehner",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 3,
+				"note_2": 4.3,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 38,
+			"group": 5,
+			"firstName": "Germaine",
+			"lastName": "Cruickshank",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 2.4,
+				"note_2": 2.7,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 39,
+			"group": 4,
+			"firstName": "Estel",
+			"lastName": "Rodriguez",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 4.1,
+				"note_2": 2.8,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 40,
+			"group": 5,
+			"firstName": "Lora",
+			"lastName": "Heaney",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 3.9,
+				"note_2": 4.9,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 41,
+			"group": 5,
+			"firstName": "Felipe",
+			"lastName": "Cummerata",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 0.7,
+				"note_2": 0.1,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 42,
+			"group": 1,
+			"firstName": "Jaren",
+			"lastName": "Mitchell",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 4.3,
+				"note_2": 2,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 43,
+			"group": 5,
+			"firstName": "Edwardo",
+			"lastName": "Kulas",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 0.8,
+				"note_2": 0.4,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 44,
+			"group": 4,
+			"firstName": "Emilia",
+			"lastName": "Cormier",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 0.6,
+				"note_2": 3.3,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 45,
+			"group": 4,
+			"firstName": "Nova",
+			"lastName": "Shields",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 0.6,
+				"note_2": 2.1,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 46,
+			"group": 1,
+			"firstName": "Queen",
+			"lastName": "Altenwerth",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 1.6,
+				"note_2": 3.1,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 47,
+			"group": 3,
+			"firstName": "Meda",
+			"lastName": "Strosin",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 1.4,
+				"note_2": 4,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 48,
+			"group": 4,
+			"firstName": "Lavon",
+			"lastName": "Reichel",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 3.6,
+				"note_2": 4.1,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 49,
+			"group": 4,
+			"firstName": "Aurelio",
+			"lastName": "Fritsch",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 4.8,
+				"note_2": 0,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 50,
+			"group": 5,
+			"firstName": "Clare",
+			"lastName": "Kiehn",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 0,
+				"note_2": 0.8,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 51,
+			"group": 2,
+			"firstName": "Georgette",
+			"lastName": "Block",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 3,
+				"note_2": 3,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 52,
+			"group": 2,
+			"firstName": "Devante",
+			"lastName": "Runolfsdottir",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 2.2,
+				"note_2": 4.6,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 53,
+			"group": 1,
+			"firstName": "Frieda",
+			"lastName": "Bernhard",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 3.2,
+				"note_2": 0.3,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 54,
+			"group": 5,
+			"firstName": "Noemie",
+			"lastName": "Jakubowski",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 1.8,
+				"note_2": 0.1,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 55,
+			"group": 4,
+			"firstName": "Kieran",
+			"lastName": "Shields",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 3.3,
+				"note_2": 2.9,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 56,
+			"group": 4,
+			"firstName": "Izaiah",
+			"lastName": "Gaylord",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 2.8,
+				"note_2": 2,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 57,
+			"group": 5,
+			"firstName": "Gavin",
+			"lastName": "Conroy",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 2.5,
+				"note_2": 0.5,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 58,
+			"group": 4,
+			"firstName": "Porter",
+			"lastName": "Boyle",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 5,
+				"note_2": 4.8,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 59,
+			"group": 1,
+			"firstName": "Milo",
+			"lastName": "Braun",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 4.4,
+				"note_2": 4.3,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 60,
+			"group": 4,
+			"firstName": "Haskell",
+			"lastName": "Bergnaum",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 3.7,
+				"note_2": 3.6,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 61,
+			"group": 4,
+			"firstName": "Kasey",
+			"lastName": "Wisoky",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 0.6,
+				"note_2": 3.6,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 62,
+			"group": 4,
+			"firstName": "Maybelle",
+			"lastName": "Bergstrom",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 0.8,
+				"note_2": 0,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 63,
+			"group": 4,
+			"firstName": "Dexter",
+			"lastName": "Hayes",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 3.1,
+				"note_2": 0,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 64,
+			"group": 4,
+			"firstName": "Josiane",
+			"lastName": "Kihn",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 0.4,
+				"note_2": 1.2,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 65,
+			"group": 2,
+			"firstName": "Chet",
+			"lastName": "Hilll",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 0.3,
+				"note_2": 2.8,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 66,
+			"group": 5,
+			"firstName": "Maurine",
+			"lastName": "Gusikowski",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 0.7,
+				"note_2": 4.2,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 67,
+			"group": 5,
+			"firstName": "Savanna",
+			"lastName": "Cartwright",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 3.8,
+				"note_2": 3.3,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 68,
+			"group": 5,
+			"firstName": "Ryleigh",
+			"lastName": "Fay",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 2.3,
+				"note_2": 4.1,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 69,
+			"group": 1,
+			"firstName": "Erick",
+			"lastName": "Torphy",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 4.2,
+				"note_2": 4.2,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 70,
+			"group": 4,
+			"firstName": "Fredrick",
+			"lastName": "Homenick",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 0.2,
+				"note_2": 1.1,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 71,
+			"group": 2,
+			"firstName": "Gerhard",
+			"lastName": "Hudson",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 3.3,
+				"note_2": 4,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 72,
+			"group": 3,
+			"firstName": "Garnet",
+			"lastName": "Larkin",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 1.6,
+				"note_2": 4.2,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 73,
+			"group": 4,
+			"firstName": "Susanna",
+			"lastName": "Klein",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 2.1,
+				"note_2": 0.1,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 74,
+			"group": 5,
+			"firstName": "Tiana",
+			"lastName": "DuBuque",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 0.4,
+				"note_2": 3.2,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 75,
+			"group": 1,
+			"firstName": "Wellington",
+			"lastName": "Paucek",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 0,
+				"note_2": 4.8,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 76,
+			"group": 2,
+			"firstName": "Horacio",
+			"lastName": "Emard",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 3.2,
+				"note_2": 1.6,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 77,
+			"group": 3,
+			"firstName": "Shakira",
+			"lastName": "Yundt",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 1.7,
+				"note_2": 0.3,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 78,
+			"group": 2,
+			"firstName": "Winnifred",
+			"lastName": "Stoltenberg",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 3.7,
+				"note_2": 0.8,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 79,
+			"group": 3,
+			"firstName": "Salvador",
+			"lastName": "Rosenbaum",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 4.9,
+				"note_2": 2.8,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 80,
+			"group": 1,
+			"firstName": "Broderick",
+			"lastName": "Reichert",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 0.9,
+				"note_2": 4.1,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 81,
+			"group": 5,
+			"firstName": "Ariel",
+			"lastName": "Kassulke",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 4.6,
+				"note_2": 1.9,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 82,
+			"group": 1,
+			"firstName": "Amira",
+			"lastName": "Adams",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 3.5,
+				"note_2": 0.2,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 83,
+			"group": 5,
+			"firstName": "Stevie",
+			"lastName": "Feest",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 2.6,
+				"note_2": 3.1,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 84,
+			"group": 3,
+			"firstName": "Annabell",
+			"lastName": "Collins",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 4.9,
+				"note_2": 4.7,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 85,
+			"group": 5,
+			"firstName": "Elroy",
+			"lastName": "Feest",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 1.8,
+				"note_2": 2.4,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 86,
+			"group": 1,
+			"firstName": "Vidal",
+			"lastName": "Murphy",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 3.3,
+				"note_2": 1.4,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 87,
+			"group": 5,
+			"firstName": "Simone",
+			"lastName": "Rogahn",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 3.5,
+				"note_2": 3.2,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 88,
+			"group": 2,
+			"firstName": "Vincenza",
+			"lastName": "Lubowitz",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 4.1,
+				"note_2": 4.4,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 89,
+			"group": 2,
+			"firstName": "Leopold",
+			"lastName": "Stracke",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 1.7,
+				"note_2": 1.9,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 90,
+			"group": 3,
+			"firstName": "Kristian",
+			"lastName": "Jaskolski",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 1.8,
+				"note_2": 1.5,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 91,
+			"group": 2,
+			"firstName": "Friedrich",
+			"lastName": "Lowe",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 5,
+				"note_2": 4.1,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 92,
+			"group": 5,
+			"firstName": "Toni",
+			"lastName": "Casper",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 4.8,
+				"note_2": 4.7,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 93,
+			"group": 1,
+			"firstName": "Johnpaul",
+			"lastName": "DuBuque",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 1.6,
+				"note_2": 2.2,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 94,
+			"group": 4,
+			"firstName": "Stefan",
+			"lastName": "Hettinger",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 3.7,
+				"note_2": 2.9,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 95,
+			"group": 4,
+			"firstName": "Gerardo",
+			"lastName": "VonRueden",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 2.4,
+				"note_2": 0.5,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 96,
+			"group": 1,
+			"firstName": "Aurelio",
+			"lastName": "Corkery",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 4,
+				"note_2": 1.3,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 97,
+			"group": 3,
+			"firstName": "Jarred",
+			"lastName": "Gerhold",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 0.3,
+				"note_2": 4.7,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 98,
+			"group": 4,
+			"firstName": "Ayana",
+			"lastName": "Rodriguez",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 0.2,
+				"note_2": 1.7,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 99,
+			"group": 4,
+			"firstName": "Matt",
+			"lastName": "Gleason",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 4,
+				"note_2": 2.2,
+				"note_3": 0,
+				"note_4": 0
+			}
+		},
+		{
+			"id": 100,
+			"group": 4,
+			"firstName": "Ian",
+			"lastName": "Stehr",
+			"subject": "Social Science",
+			"notes": {
+				"note_1": 1.1,
+				"note_2": 4.4,
+				"note_3": 0,
+				"note_4": 0
+			}
+		}
+	]
+}
