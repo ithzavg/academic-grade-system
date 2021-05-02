@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+$color-blue: #121F3D;
+$color-back: #F1F0EA;
+$color-button-red: #D35050;
+$color-button-green: #50D3AC;
+$color-sections-gray: #C4C4C4;
+$color-font-title: #FFFFFF;
+$color-font-text: #000000;
+
+$font: 'Roboto Slab';
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: $font , serif;
+    background-color: $color-back;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 6vh;
+    margin-bottom: 15px;
+    background-color: $color-blue;
+
+    h2{
+        margin: auto;
+        color:$color-font-title;
+        font-size: 30px;
+        text-align: center;
+    }
+}
+
+#main{
+    display: flex;
+    flex-direction: row;
+    height: 85vh;
+}
+
+.item{
+    display: flex;
+    flex-direction: row;
+    background-color: $color-sections-gray;
+    width: 27%;
+    height: 100px;
+    padding: 10px;
+    margin: auto;
+    
+    border-radius: 10px;
+
+    &__profile{
+        width: 78px;
+        height: 78px;
+    }
+
+}
+
+.btn{
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    position: relative;
+    bottom: -57px;
+    background-color: $color-button-red;
+    color:$color-font-title;
+    border-radius: 50%;
+    text-decoration: none;
+    text-align: center;
+  
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+    height: 6vh;
+    background-color: $color-blue;
+    color:$color-font-title;
+    font-size: 15px;
+
+    &p{
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    #main{
+        flex-direction: column;
+    }
+
+    .item{
+        width: 85%;
+        height: 120px;
+        margin: 10px auto;
+        justify-content: space-between;
+    }
+
+    .btn{
+        bottom: -52px;
+    }
+}
