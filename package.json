@@ -1,0 +1,36 @@
+{
+  "name": "academic-grade-system",
+  "version": "1.0.0",
+  "description": "administrative system for teachers, where there will be a control of grades by assigned groups.",
+  "main": "prueba.js",
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "express": "^4.17.1",
+    "faker": "^5.5.3",
+    "mongodb": "^3.6.6"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.13.16",
+    "@babel/core": "^7.14.0",
+    "@babel/node": "^7.13.13",
+    "@babel/preset-env": "^7.14.0",
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src --out-dir dist",
+    "dev": "nodemon src/index.js --exec babel-node",
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbejaCruz/academic-grade-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbejaCruz/academic-grade-system/issues"
+  },
+  "homepage": "https://github.com/AbejaCruz/academic-grade-system#readme"
+}
