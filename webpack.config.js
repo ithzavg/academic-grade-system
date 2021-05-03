@@ -47,8 +47,8 @@ module.exports = {
               {from: './src/img/',to:'src/img'}
             ]
          }),
-         new MiniCSSExtractPlugin({
-          filename: "./src/styles/styles.css"
-         })
+         new MiniCSSExtractPlugin(
+           {filename: "./src/styles/styles.css"}
+           )
     ]
 }

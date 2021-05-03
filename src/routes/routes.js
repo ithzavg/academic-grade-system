@@ -11,15 +11,22 @@ const routes = {
 
 const router = async () => {
     const content = document.getElementById('main');
+    const contentDashboard = document.getElementById('dashboard');
   
     let hash = getHash();
 
     let route = await resolveRoutes(hash);
-    console.log(routes);
     let render = routes[route] ? routes[route] : Error404;
 
-    console.log(render);
-    content.innerHTML = await render();
+    console.log(route);
+    if(route == '/:id'){
+        contentDashboard.innerHTML = await render();
+        content.innerHTML = null;
+    }else{
+        content.innerHTML = await render();
+        contentDashboard.innerHTML = null;
+    }
+
 };
 
 export default router;
