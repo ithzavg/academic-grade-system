@@ -1,0 +1,39 @@
+{
+  "name": "academic-grade-system",
+  "version": "1.0.0",
+  "description": "app to register grades for studens",
+  "main": "webpack.config.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --open --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbejaCruz/academic-grade-system.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Diego A. Cruz and Ithzamary Vilchis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AbejaCruz/academic-grade-system/issues"
+  },
+  "homepage": "https://github.com/AbejaCruz/academic-grade-system#readme",
+  "devDependencies": {
+    "@babel/core": "^7.13.15",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^5.2.4",
+    "html-webpack-plugin": "^5.3.1",
+    "mini-css-extract-plugin": "^1.5.1",
+    "node-sass": "^5.0.0",
+    "sass": "^1.32.12",
+    "sass-loader": "^11.0.1",
+    "webpack": "^5.36.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "dependencies": {
+    "copy-webpack-plugin": "^8.1.1"
+  }
+}
