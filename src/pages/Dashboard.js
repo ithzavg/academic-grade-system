@@ -13,7 +13,7 @@ const Dashboard = async () =>{
     
             ${groups.groups.map(group => `
                 
-                <div class= "groups__item">
+                <div class= "groups__item" id="total-groups">
                     <div class="item__header" id="item-id" value="${group.id}">
                         <p>
                         Grade: ${group.grade}

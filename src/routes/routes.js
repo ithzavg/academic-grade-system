@@ -24,31 +24,41 @@ const router = async () => {
         contentDashboard.innerHTML = await render();
         content.innerHTML = null;
 
+        let totalGroups = document.getElementsByClassName('item__content');
 
-        let groupId = document.getElementById('item-id');
-        let idGroup = groupId.getAttribute('value');
-        let getInfoStudents = document.getElementById('btn-getStudent-'+idGroup);
-        let contentStudents = document.getElementById('tbl-students');
+        for(var i= 0; i < totalGroups.length; i++){
+            
+            let btnGroup = totalGroups[i].children[1];
+            let idGroup = btnGroup.getAttribute('value');
+
+            let getInfoStudents = document.getElementById('btn-getStudent-'+idGroup);
+            let contentStudents = document.getElementById('tbl-students');
         
-        console.log(getStudents(idGroup));
+      
         
         const showStudents = async () => {
             contentStudents.innerHTML = null;
             contentStudents.innerHTML = await getStudents(idGroup);
+            
+            let cells = contentStudents.getElementsByClassName('testingID');
+            console.log(cells);
 
-
-            let saveNotes= document.getElementById('btn-save-notes');
-            let studentId = document.getElementById('student-id');
-            let noteOne = document.getElementById('noteOne');
-            let noteTwo = document.getElementById('noteTwo');
-            let noteThree = document.getElementById('noteThree');
-            let noteFour = document.getElementById('noteFour');
-            let totalN = document.getElementById('total-notes');
+            for(var i=0; i< cells.length; i++){
+                let idBtnStudent = cells[i].children[0];
+                let idStudent = idBtnStudent.getAttribute('value');
+                
+                let saveNotes= document.getElementById('btn-note-'+idStudent);
+            
+                let noteOne = document.getElementById('noteOne');
+                let noteTwo = document.getElementById('noteTwo');
+                let noteThree = document.getElementById('noteThree');
+                let noteFour = document.getElementById('noteFour');
+                let totalN = document.getElementById('total-notes');
 
             const updateNotes = () =>{
                 
                 let notes = {
-                    id: studentId.getAttribute('value'),
+                    id: idStudent,
                     note_1: noteOne.value,
                     note_2: noteTwo.value,
                     note_3: noteThree.value,
@@ -57,7 +67,6 @@ const router = async () => {
             }
 
             const autoTotal = () =>{
-                let total = [];
                 let sumNotes = {
                     note_1: parseFloat(noteOne.value),
                     note_2: parseFloat(noteTwo.value),
@@ -65,20 +74,25 @@ const router = async () => {
                     note_4: parseFloat(noteFour.value)
                 }
 
-                total.push(sumNotes);
-                totalN.value = sum(total);
+        
+                totalN.value = sum(sumNotes);
                 
             }
             
             saveNotes.addEventListener("click", updateNotes);
+            
             noteOne.addEventListener("change", autoTotal);
             noteTwo.addEventListener("change", autoTotal);
             noteThree.addEventListener("change", autoTotal);
             noteFour.addEventListener("change", autoTotal);
+                  
+            }
 
         }
 
         getInfoStudents.addEventListener("click", showStudents);
+
+        }
 
     }else{
         content.innerHTML = await render();
