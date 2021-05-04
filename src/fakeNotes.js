@@ -29,7 +29,7 @@ function generateNotesStudents() {
                 studentData.id= faker.datatype.uuid();
                 studentData.firstName = faker.name.firstName();
                 studentData.lastName = faker.name.lastName();
-                studentData.notes =[
+                studentData.notes =
                     {
 
                         note_1: faker.datatype.float({min: 0, max: 5, precision: 0.1}),
@@ -37,8 +37,7 @@ function generateNotesStudents() {
                          note_3: 0.0,
                          note_4:  0.0   
                     }
-                ]
-
+                
                 groupData.students.push(studentData);
             }
             teacherData.groups.push(groupData);

@@ -9,7 +9,6 @@ router.get('/:_id/:id', async (req,res) => {
    const {id} = req.params;
    const db = await connect();
    const result = await db.collection('studentsInfo').findOne({"_id": ObjectID(_id)},{projection:{groups: {$elemMatch: { id: id}}}});
-   console.log(result)
    res.json(result);
 });
 
