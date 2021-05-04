@@ -1,5 +1,6 @@
 const resolveRoutes = (route) => {
-    if (route.length <= 3) {
+   
+    if (route.length <= 40) {
       let validRoute = route === '/' ? route : '/:id';
       return validRoute;
     }
