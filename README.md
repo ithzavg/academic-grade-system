@@ -10,11 +10,12 @@ Click in the link below and checkout this amazing system.
 ## :student: Language and tools
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" /> <img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" /> <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>  
-
+</p>
+<p align="center">
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
-##  Analysis
+## :student: Analysis
 
 Check the flow diagrams in the images below:
 
@@ -43,7 +44,7 @@ Check the flow diagrams in the images below:
 
 
 
-##  Design and inspiration
+## :student: Design and inspiration
 
 You can check out the figma design in the link below:
 [Figma design](https://www.figma.com/file/dEXNFQwjv3GrTvTrQAKyUw/Academic-Notes?node-id=0%3A1 "Figma design")
@@ -53,7 +54,7 @@ You can check out the figma design in the link below:
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/dBH2rCk/dashboard.png" alt="dashboard" border="0"></a>
 
-##  Key Features and endpoints
+## :student: Key Features and endpoints
 - List of teachers
 - List of groups per teacher
 - List of students with notes
@@ -66,7 +67,7 @@ https://academic-grade-api.herokuapp.com/teachers
 
 https://academic-grade-api.herokuapp.com/student/
 
-##  How to use
+## :student: How to use
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
@@ -82,10 +83,10 @@ $ npm install
 # Run the app
 $ npm start
 ```
-## Credits
+## :student: Credits
 **Ithzamary Vilchis García - Frontend developer**
-** Diego A. Cruz Triana  - Backend developer**
+**Diego A. Cruz Triana  - Backend developer**
 
-## License
+## :student: License
 MIT
  
