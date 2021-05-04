@@ -1,5 +1,4 @@
 import '@babel/polyfill';
-
 import app from './server';
 import { connect } from './database';
 

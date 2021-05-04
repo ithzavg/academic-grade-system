@@ -1,6 +1,5 @@
 import {Router} from 'express';
 import {connect} from '../database';
-import {ObjectID} from 'mongodb';
 
 const router = Router();
 
@@ -13,7 +12,7 @@ router.get('/',async(req,res) => {
 router.get('/:id', async (req,res) => {
     const {id} = req.params;
     const db = await connect();
-     const result = await db.collection('studentsInfo').findOne({_id:ObjectID(id)});
+     const result = await db.collection('studentsInfo').findOne({id:id});
     res.json(result)
 });
 

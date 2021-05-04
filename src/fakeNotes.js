@@ -11,6 +11,7 @@ function generateNotesStudents() {
     for (let i = 1; i <= numberTeacher; i++) {
 
         const teacherData = {};
+        teacherData.id = faker.datatype.uuid();
         teacherData.firstName= faker.name.firstName();
         teacherData.lastName= faker.name.lastName();
         teacherData.groups = [];
