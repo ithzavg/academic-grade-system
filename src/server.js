@@ -4,9 +4,10 @@ import TeacherIndex from './routes/teacher.routes';
 import GroupIndex from './routes/group.routes';
 import StudentIndex from './routes/student.routes';
 const { config } = require('./config/index');
+var cors = require('cors')
 
 const app = express();
-
+app.use(cors())
 app.set('port',config.port);
 app.use(json());
 
