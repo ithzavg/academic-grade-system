@@ -1,9 +1,10 @@
 
+import getHash from '../routes/getHash';
 import getGroups from '../utils/getGroups';
 
 export const getStudents = async (idGroup) =>{
-
-    const students = await getGroups(idGroup);
+    const idMongo = getHash()
+    const students = await getGroups(idGroup, idMongo);
     const view = `
 
     <tr class="tbl-students__header">
