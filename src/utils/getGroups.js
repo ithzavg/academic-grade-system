@@ -1,7 +1,6 @@
 const API = "https://academic-grade-api.herokuapp.com/group";
 
-const getGroups = async (id) => {
-    const idMongo = '6091833514b8256a8cde8959';
+const getGroups = async (id,idMongo) => {
     const apiURl = id ? `${API}/${idMongo}/${id}` : API;
 
     try {
