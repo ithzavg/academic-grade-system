@@ -10,7 +10,7 @@ const Home = async () =>{
             <img src="/src/img/main__img-woman.png" class="item__profile"></img>
             <p class="item__name">Name: ${teacher.firstName} ${teacher.lastName} </p>
             
-            <a class="btn btn-red" href="#/${teacher.id}"> + </a>
+            <a class="btn btn-red" href="#/${teacher._id}"> + </a>
         </section>
         `)
         
